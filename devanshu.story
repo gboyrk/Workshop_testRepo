@@ -2,7 +2,7 @@ Arithmetic Examples
 
 3 + 4 = 8
 
-3 * 4 = 15
+3 * 4 = 13
 
 English Grammar Examples
 
